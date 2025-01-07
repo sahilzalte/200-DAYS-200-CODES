@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here’s a quick look at my progress over time:
 
-- **Days Completed**: 6/365
+- **Days Completed**: 7/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -28,6 +28,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 4**: Heading Tags + Basic Bookmarks Website 🖥️
   - **Day 5**: Working with Images, Tables, and Lists 📸
   - **DAy 6**: Today Learn SEO and Core Web Vitals In html 📶
+  - **DAy 6**: Forms and input tags in html📄
 
 ## 🔥 Getting Started
 
