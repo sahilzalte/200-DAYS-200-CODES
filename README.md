@@ -3,9 +3,9 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 ![365 Days 365 Codes License](https://github.com/sahilzalte/365-DAYS-365-CODES/raw/main/365%20Days%20Code%20Licence.png)
 
 📊 **Progress Tracker**
-Here’s a quick look at my progress over time:
+Here's a quick look at my progress over time:
 
-- **Days Completed**: 11/365
+- **Days Completed**: 12/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -33,6 +33,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 9**: Id and Classes in html 🏛️
   - **Day 10**: Video and Audio tags - in html 📻
   - **Day 11**: Semantic Tags in HTML
+  - **Day 12**: Exercise 1  Media player Using html only
 
 ## 🔥 Getting Started
 
