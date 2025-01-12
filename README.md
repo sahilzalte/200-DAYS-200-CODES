@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 12/365
+- **Days Completed**: 13/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -34,6 +34,8 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 10**: Video and Audio tags - in html 📻
   - **Day 11**: Semantic Tags in HTML
   - **Day 12**: Exercise 1  Media player Using html only
+  - **Day 13**: Entities , code tag and new Features.
+  - **After That The html Has Been Complete Successfully.**
 
 ## 🔥 Getting Started
 
