@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 15/365
+- **Days Completed**: 16/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -38,6 +38,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **After That The html Has Been Complete Successfully.**
   - **Day 14**: Basic Introduction to CSS.
   - **Day 15**: Inline , Internal and External CSS add in website.
+  - **Day 16**: We know the history of CSS and make a file using AI.
 
 ## 🔥 Getting Started
 
