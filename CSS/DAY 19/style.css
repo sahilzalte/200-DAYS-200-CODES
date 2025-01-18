@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&display=swap');
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: 20px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+
+h1 {
+    color: aqua;
+    font-family: "Playwrite AU SA", serif;
+    text-align: center;
+}
+h2
+{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: aqua;
+    text-decoration-style: solid;
+    text-decoration-thickness:7px;
+    /* text-indent: 65px; */
+    width: 45px ;
+}
+.lorem{
+    border: 2px solid red;
+    width: 145px;
+    text-overflow:ellipsis; 
+    /* overflow: hidden;  */
+    word-break: break-all;
+
+}
