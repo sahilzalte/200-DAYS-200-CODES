@@ -1,11 +1,11 @@
 # 365 Days 365 Codes ♑
 _**This project is licensed under the **MIT License**. You can read the full license here:**_  
 ![365 Days 365 Codes License](https://github.com/sahilzalte/365-DAYS-365-CODES/raw/main/365%20Days%20Code%20Licence.png)
-
+<br>
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 19/365
+- **Days Completed**: 20/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -42,6 +42,7 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 17**: How CSS Selectors are define and use.
   - **Day 18**: Learn all CSS Box Model.
   - **Day 19**: CSS fonts, text and colors.
+  - **Day 20**: Exercise 2 CSS code to style a paragraph.
 
 ## 🔥 Getting Started
 
