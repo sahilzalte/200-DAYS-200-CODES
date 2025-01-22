@@ -1,0 +1,14 @@
+.box {
+    border: 2px solid black;
+    padding: 34px;
+    box-shadow: 5px 15px 5px #2aca0b;
+    text-shadow:7px 14px 8px #eb1010;
+    
+  
+}
+.outline{
+    outline: 2px solid black;
+    border: 2px solid rgb(253, 0, 148);
+    border-radius: 48px;
+    outline-offset: 19px;
+}
