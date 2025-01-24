@@ -1,0 +1,10 @@
+nav ul li
+{
+    list-style: devanagari;
+    list-style-type: "♑";
+    background-color: yellow;
+    list-style-position:inside ;
+    border: 2px solid black;
+    /* list-style-image: url("https://e0.365dm.com/21/09/2048x1152/skysports-ronaldo-united-manchester-united_5497116.jpg?20210901100748 "); */
+    list-style-type: disc inside;
+}   
