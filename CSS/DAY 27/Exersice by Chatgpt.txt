@@ -1,0 +1,3 @@
+Using basic CSS properties, create a square box of size 150px by 150px, 
+with a background color of your choice, andcenter it both horizontally 
+and vertically in the browser window.

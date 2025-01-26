@@ -1,0 +1,18 @@
+/* Reset body styles */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex; /* Use Flexbox for centering */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full viewport height */
+    background-color: #f0f0f0; /* Light gray background for contrast */
+}
+
+/* Style the box */
+.center-box {
+    width: 150px;
+    height: 150px;
+    background-color: #07c5ff; /* Blue background for the box */
+    border-radius: 10px; /* Optional: Rounded corners */
+}
