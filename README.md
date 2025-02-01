@@ -5,7 +5,7 @@ _**This project is licensed under the **MIT License**. You can read the full lic
 📊 **Progress Tracker**
 Here's a quick look at my progress over time:
 
-- **Days Completed**: 31/365
+- **Days Completed**: 32/365
 - **Languages Practiced**: HTML, CSS, JavaScript, React, Node.js
 - **Current Focus**: MERN Stack
 
@@ -53,7 +53,8 @@ Welcome to my **365 Days 365 Codes** project! 🚀 This repository is a collecti
   - **Day 28**: CSS Position.
   - **Day 29**: Exercise 3.
   - **Day 30**: Variable in CSS.
-  - **Day 30**: CSS media query.
+  - **Day 31**: CSS media query.
+  - **Day 32**: Solving Exercise 3 with another method.
 
 ## 🔥 Getting Started
 
