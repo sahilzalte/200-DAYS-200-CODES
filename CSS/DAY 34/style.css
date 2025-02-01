@@ -1,0 +1,15 @@
+img{
+    float: right;
+}
+.cards{
+    border: 2px solid black;
+    display: flow-root;
+}
+.card{
+    border: 2px solid rgb(255, 0, 0);
+
+}
+.card:nth-child(3){
+    background-color: aqua;
+    clear: right;
+}
