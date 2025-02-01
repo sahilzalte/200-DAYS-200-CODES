@@ -1,0 +1,2 @@
+Create a multicolor website which 
+can change color using CSS Variables.

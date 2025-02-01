@@ -1,0 +1,21 @@
+:root{
+    
+    --bg_color:rgba(0, 238, 255, 0.747);
+    --color:rgb(255, 0, 0);
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: var(--bg_color);
+}
+ul li {
+    position: relative;
+    display: flex;
+    padding: 12px;
+    opacity: 45;
+    border: 2px solid black;
+    color: var(--color);
+    border-radius: 13px;
+}
